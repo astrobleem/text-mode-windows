@@ -4,7 +4,7 @@
 
 TEXT80.ZIP is an experimental **repository-file download**, not a GitHub Release asset. It is a 389,919-byte package (SHA-256 `cd892a48db2973e7c99f4d6a00977cfe7e2466699baa5afcd4baf977aa2a30b9`) for Windows 3.0 real mode on 8086/8088 systems with 640 KB. It includes TEXT80 80×25, a 640×400 panning desktop, VGA 80×50, and compact C25 profiles.
 
-Extract the complete `TEXT80` folder to `C:\\TEXT80`. From plain DOS, run `T80ON C:\\WINDOWS C25` (substitute your Windows directory), then start Windows with `WIN /R` after setup succeeds. Exit Windows and run `T80OFF C:\\WINDOWS` from the extracted folder to undo. Keep the state files until rollback completes; the guide covers recovery and profile changes.
+Extract the complete `TEXT80` folder to `C:\TEXT80`. From plain DOS, run `T80ON C:\WINDOWS C25` (substitute your Windows directory), then start Windows with `WIN /R` after setup succeeds. Exit Windows and run `T80OFF C:\WINDOWS` from the extracted folder to undo. Keep the state files until rollback completes; the guide covers recovery and profile changes.
 
 [![86Box capture of Windows 3.0 Notepad in TEXT80 C25 80×25 on an IBM XT/CGA](https://raw.githubusercontent.com/astrobleem/oemdisplay-tandy/1dc95619dde79663d0e1d9e1c7d251b00978b7ed/docs/text80/RUN_c3/c80w3/notepad.png)](https://github.com/astrobleem/oemdisplay-tandy/blob/1dc95619dde79663d0e1d9e1c7d251b00978b7ed/docs/text80/RUN_c3/c80w3/notepad.png)
 
