@@ -1,6 +1,6 @@
 # Windows 3.0 in text mode
 
-**[Download TEXT80.ZIP](https://raw.githubusercontent.com/astrobleem/oemdisplay-tandy/main/downloads/experimental/TEXT80/TEXT80.ZIP)**
+**[Download TEXT80.ZIP](https://github.com/astrobleem/oemdisplay-tandy/releases/download/windows-xt/TEXT80.ZIP)**
 
 Run Windows applications through an 80-column text display. Start with **C25**
 for compact controls on an 80x25 screen and a 640x200 logical desktop.
