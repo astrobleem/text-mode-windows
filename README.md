@@ -56,6 +56,6 @@ coverage is unqualified. Windows 3.1 is not supported.
 ![Notepad using C25 in the XT/CGA emulator](https://raw.githubusercontent.com/astrobleem/oemdisplay-tandy/main/docs/text80/RUN_c3/c80w3/notepad.png)
 
 [Detailed behavior](https://github.com/astrobleem/oemdisplay-tandy/blob/main/docs/TEXT80.MD) ·
-[Package source and optional test records](https://github.com/astrobleem/oemdisplay-tandy/blob/main/downloads/experimental/TEXT80/README.MD) ·
+[Install and recovery guide](https://github.com/astrobleem/oemdisplay-tandy/blob/main/downloads/experimental/TEXT80/README.MD) ·
 [Development and issues](https://github.com/astrobleem/oemdisplay-tandy).
 Component notices are in the packet.
